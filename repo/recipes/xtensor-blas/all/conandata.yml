@@ -1,0 +1,7 @@
+sources:
+  "0.21.0":
+    url:
+      - "https://github.com/xtensor-stack/xtensor-blas/archive/refs/tags/0.21.0.zip"
+
+    sha256: "54b43ba2b931ab106ad208d35a5ed85e1d824a573eefda487b98e912c5aca181"
+
